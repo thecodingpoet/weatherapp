@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duyile Oluwatomi Johm",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "yargs": "^4.8.1"
+  }
+}
